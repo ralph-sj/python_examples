@@ -1,4 +1,4 @@
 # git ignore
 
-*/images/* # all data folders
-*/data/* # all image folders
+**/images # all data folders
+**/data # all image folders
