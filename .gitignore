@@ -4,3 +4,5 @@
 */data/* # all image folders
 */images
 */data
+*/.idea/*  # PyCharm project files folder
+*/.idea  # PyCharm project files
